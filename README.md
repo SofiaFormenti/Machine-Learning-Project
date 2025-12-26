@@ -12,8 +12,15 @@ Kaggle Dataset: https://www.kaggle.com/datasets/mirichoi0218/insurance
 
 Each row represents one insurance beneficiary.
  </div>
+<br/>
+<br/>
 
+📓 **Notebook visualization**  
+Due to GitHub rendering limitations, interactive pipeline diagrams are best viewed via nbviewer:
 
+👉 https://nbviewer.org/github/SofiaFormenti/Machine-Learning-Project/blob/main/Project.ipynb
+
+<br/>
 ## Dataset Overview
 
 | Column Name | Type | Description |
